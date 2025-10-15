@@ -63,7 +63,7 @@ Fullstack:
 
 > [Angular 8 + Spring Boot example](https://www.bezkoder.com/angular-spring-boot-crud/)
 
-> [Angular 10 + Spring Boot example](https://www.bezkoder.com/angular-10-spring-boot-crud/)
+> [Angular 10 + Spring Boot example hehe](https://www.bezkoder.com/angular-10-spring-boot-crud/)
 
 > [Angular 11 + Spring Boot example](https://www.bezkoder.com/angular-11-spring-boot-crud/)
 
